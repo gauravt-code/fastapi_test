@@ -1,0 +1,5 @@
+fastapi[standard]
+sqlmodel
+uvicorn[standard]
+pwdlib[argon2]
+pyjwt
